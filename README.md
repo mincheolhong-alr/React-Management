@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 React 강의 목 관리 시스템 (Management System)입니다.
+본 프로젝트는 React 강관리 시스템 (Management System)입니다.
 gogo lets go
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
